@@ -130,7 +130,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
 * Add more behavioral features
 * Try other clustering techniques (DBSCAN, Hierarchical)
@@ -138,6 +138,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Medha Shree N**
