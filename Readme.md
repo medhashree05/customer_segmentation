@@ -1,12 +1,12 @@
-# 📊 Customer Segmentation using K-Means Clustering
+#  Customer Segmentation using K-Means Clustering
 
-## 🚀 Overview
+##  Overview
 
 This project performs **customer segmentation** using the K-Means clustering algorithm to group users based on their behavior. The goal is to identify distinct customer segments and derive actionable business insights.
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 * Segment customers into meaningful groups
 * Understand user behavior patterns
@@ -14,7 +14,7 @@ This project performs **customer segmentation** using the K-Means clustering alg
 
 ---
 
-## 📁 Dataset
+##  Dataset
 
 * **Telco Customer Churn Dataset**
 * Features used for clustering:
@@ -25,7 +25,7 @@ This project performs **customer segmentation** using the K-Means clustering alg
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * Python
 * Pandas
@@ -36,7 +36,7 @@ This project performs **customer segmentation** using the K-Means clustering alg
 
 ---
 
-## ⚙️ Methodology
+##  Methodology
 
 ### 1. Data Preprocessing
 
@@ -69,23 +69,23 @@ Selected key features:
 
 ---
 
-## 📊 Results
+##  Results
 
 The model segmented customers into **3 clusters**:
 
-### 🟢 Cluster 0: Loyal Customers
+###  Cluster 0: Loyal Customers
 
 * High tenure
 * High spending
 * Highly engaged users
 
-### 🔵 Cluster 1: Low Engagement Customers
+###  Cluster 1: Low Engagement Customers
 
 * Low tenure
 * Low spending
 * New or inactive users
 
-### 🔴 Cluster 2: At-Risk Customers
+###  Cluster 2: At-Risk Customers
 
 * High spending
 * Low tenure
@@ -93,7 +93,7 @@ The model segmented customers into **3 clusters**:
 
 ---
 
-## 💡 Business Insights
+##  Business Insights
 
 * Provide **loyalty rewards** to high-value customers
 * Use **promotions and onboarding** for low-engagement users
@@ -101,7 +101,7 @@ The model segmented customers into **3 clusters**:
 
 ---
 
-## 📈 Key Learnings
+##  Key Learnings
 
 * Importance of feature scaling in clustering
 * Using Elbow Method to select optimal clusters
@@ -109,12 +109,12 @@ The model segmented customers into **3 clusters**:
 
 ---
 
-## ▶️ How to Run
+## ▶ How to Run
 
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/customer-segmentation.git
+git clone https://github.com/medhashree05/customer_segmentation.git
 ```
 
 2. Install dependencies
